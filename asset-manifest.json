@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fade-line/static/css/main.542a43d4.chunk.css",
-    "main.js": "/fade-line/static/js/main.818b5565.chunk.js",
-    "main.js.map": "/fade-line/static/js/main.818b5565.chunk.js.map",
+    "main.js": "/fade-line/static/js/main.d6863a5c.chunk.js",
+    "main.js.map": "/fade-line/static/js/main.d6863a5c.chunk.js.map",
     "runtime-main.js": "/fade-line/static/js/runtime-main.4aafe873.js",
     "runtime-main.js.map": "/fade-line/static/js/runtime-main.4aafe873.js.map",
     "static/js/2.858f0562.chunk.js": "/fade-line/static/js/2.858f0562.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4aafe873.js",
     "static/js/2.858f0562.chunk.js",
     "static/css/main.542a43d4.chunk.css",
-    "static/js/main.818b5565.chunk.js"
+    "static/js/main.d6863a5c.chunk.js"
   ]
 }
