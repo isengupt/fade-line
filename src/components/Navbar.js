@@ -14,7 +14,7 @@ export default function Navbar() {
             <a href="#" className="fixed__nav__item">
               RESUME
             </a>
-            <a href="https://isengupt.github.io/fiber-website/" className="fixed__nav__item">
+            <a href="https://isengupt.github.io/overtop-scroll/" className="fixed__nav__item">
             PREVIOUS DEMO
             </a>
             <a href="https://github.com/isengupt/fade-line" className="fixed__nav__item">
